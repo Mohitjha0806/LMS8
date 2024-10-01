@@ -1,0 +1,6 @@
+txtStudentReg
+txtStudentRollNumber
+ddlSubject
+ddlSemester
+txtDOB
+txtMobile
